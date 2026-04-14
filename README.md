@@ -1,5 +1,7 @@
 # gitgudgames
 
+Hello hello hello
+
 A collection of classic games built with Python and Tkinter. This is the Video Games repository for the Git Gud with GitHub Event!
 
 ---
